@@ -331,3 +331,8 @@ body::-webkit-scrollbar {
         box-shadow: 0px 0px 1px 1px #FF66B2;
     }
 }
+
+.loading-img {
+    background: url(https://moonruyan.github.io/image/head2.svg) no-repeat center center;
+    background-size: cover;
+}
