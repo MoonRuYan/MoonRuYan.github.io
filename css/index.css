@@ -3944,11 +3944,11 @@ h1.page-title + .tag-cloud-list {
   border: 6px solid #fff;
   top: 50%;
   left: 50%;
-  -webkit-transform: translate(36px, 48px);
-  -moz-transform: translate(36px, 48px);
-  -o-transform: translate(36px, 48px);
-  -ms-transform: translate(36px, 48px);
-  transform: translate(36px, 48px);
+  -webkit-transform: translate(51px, 63px);
+  -moz-transform: translate(51px, 63px);
+  -o-transform: translate(51px, 63px);
+  -ms-transform: translate(51px, 63px);
+  transform: translate(51px, 63px);
 }
 #loading-box.loaded .loading-bg {
   opacity: 0;
