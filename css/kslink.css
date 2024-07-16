@@ -9,10 +9,10 @@
     transition: .2s;
     display: flex;
     margin: 5px auto;
-    color: rgb(0,0,0);
+    color: rgb(255,255,255);
     padding: 15px;
     border-radius: 40px;
-    background: rgb(255,255,255);
+    background: rgb(0,0,0);
     align-items: center;
 }
 
