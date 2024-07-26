@@ -8,7 +8,7 @@
       <link href="/post/ded2ee12.html"/>
       <url>/post/ded2ee12.html</url>
       
-        <content type="html"><![CDATA[<ul><li><h1 id="异或门"><a href="#异或门" class="headerlink" title="异或门"></a>异或门</h1><strong>继电器实现</strong></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e9181057.png" alt="code"></p><p>​       <strong>门电路实现</strong></p><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918107f.png" alt="code"></p><ul><li><h1 id="半加器"><a href="#半加器" class="headerlink" title="半加器"></a>半加器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918104f.png"></p><ul><li><h1 id="全加器"><a href="#全加器" class="headerlink" title="全加器"></a>全加器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918106c.png" alt="code"></p><ul><li><h1 id="八位二进制加法器"><a href="#八位二进制加法器" class="headerlink" title="八位二进制加法器"></a>八位二进制加法器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918102c.png" alt="code"></p>]]></content>
+        <content type="html"><![CDATA[<ul><li><h1 id="异或门"><a href="#异或门" class="headerlink" title="异或门"></a>异或门</h1></li></ul><p><strong>继电器实现</strong></p><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e9181057.png" alt="code"></p><p><strong>门电路实现</strong></p><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918107f.png" alt="code"></p><ul><li><h1 id="半加器"><a href="#半加器" class="headerlink" title="半加器"></a>半加器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918104f.png"></p><ul><li><h1 id="全加器"><a href="#全加器" class="headerlink" title="全加器"></a>全加器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918106c.png" alt="code"></p><ul><li><h1 id="八位二进制加法器"><a href="#八位二进制加法器" class="headerlink" title="八位二进制加法器"></a>八位二进制加法器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918102c.png" alt="code"></p>]]></content>
       
       
       <categories>
@@ -19,6 +19,8 @@
       
       
         <tags>
+            
+            <tag> 学习笔记 </tag>
             
             <tag> 嵌入式 </tag>
             
