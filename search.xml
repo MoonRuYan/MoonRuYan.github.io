@@ -4,6 +4,39 @@
   
     
     <entry>
+      <title>嵌入式学习笔记（2）</title>
+      <link href="/post/cc6741fc.html"/>
+      <url>/post/cc6741fc.html</url>
+      
+        <content type="html"><![CDATA[<ul><li><h1 id="锁存器"><a href="#锁存器" class="headerlink" title="锁存器"></a>锁存器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d85dd9c307b7e9a8e079.png" alt="code"></p><ul><li><h1 id="八位寄存器"><a href="#八位寄存器" class="headerlink" title="八位寄存器"></a>八位寄存器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d85dd9c307b7e9a8e05f.png" alt="code"></p><ul><li><h1 id="添加了输出使能的寄存器"><a href="#添加了输出使能的寄存器" class="headerlink" title="添加了输出使能的寄存器"></a>添加了输出使能的寄存器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d857d9c307b7e9a8da8d.png" alt="code"></p><ul><li><h1 id="内存单元"><a href="#内存单元" class="headerlink" title="内存单元"></a>内存单元</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d857d9c307b7e9a8da6e.png" alt="code"></p><ul><li><h1 id="十六位内存"><a href="#十六位内存" class="headerlink" title="十六位内存"></a>十六位内存</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d857d9c307b7e9a8dab9.png" alt="code"></p><p><strong>行列线可以通过查找表合并</strong></p><p><img src="https://pic.imgdb.cn/item/66a4d857d9c307b7e9a8da62.png" alt="code"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习笔记 </tag>
+            
+            <tag> 嵌入式 </tag>
+            
+            <tag> 锁存器 </tag>
+            
+            <tag> 寄存器 </tag>
+            
+            <tag> 内存 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>嵌入式学习笔记（1）</title>
       <link href="/post/ded2ee12.html"/>
       <url>/post/ded2ee12.html</url>
