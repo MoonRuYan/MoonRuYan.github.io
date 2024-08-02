@@ -4,6 +4,35 @@
   
     
     <entry>
+      <title>嵌入式学习笔记（4）</title>
+      <link href="/post/e90c1e20.html"/>
+      <url>/post/e90c1e20.html</url>
+      
+        <content type="html"><![CDATA[<div class="tag link"><a class="link-card" title="课程视频" href="https://www.bilibili.com/video/BV1nV411T7U3"><div class="left"><img src="https://pic.imgdb.cn/item/66acbc94d9c307b7e953a2b9.jpg"/></div><div class="right"><p class="text">课程视频</p><p class="url">https://www.bilibili.com/video/BV1nV411T7U3</p></div></a></div><h1 id="操作系统术语"><a href="#操作系统术语" class="headerlink" title="操作系统术语"></a>操作系统术语</h1><p><img src="https://pic.imgdb.cn/item/66acbc94d9c307b7e953a289.png" alt="code"></p><p><img src="https://pic.imgdb.cn/item/66acbc94d9c307b7e953a2a1.png" alt="code"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 学习笔记 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 学习笔记 </tag>
+            
+            <tag> 嵌入式 </tag>
+            
+            <tag> 操作系统 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>贫民之墙</title>
       <link href="/post/4d52f91b.html"/>
       <url>/post/4d52f91b.html</url>
@@ -66,7 +95,7 @@
       <link href="/post/74db2699.html"/>
       <url>/post/74db2699.html</url>
       
-        <content type="html"><![CDATA[<div class="tag link"><a class="link-card" title="学习视频" href="https://www.bilibili.com/video/BV1nV411T7U3"><div class="left"><img src="https://pic.imgdb.cn/item/66a8c65ed9c307b7e919c2ee.jpg"/></div><div class="right"><p class="text">学习视频</p><p class="url">https://www.bilibili.com/video/BV1nV411T7U3</p></div></a></div><ul><li><h1 id="封装八位寄存器"><a href="#封装八位寄存器" class="headerlink" title="封装八位寄存器"></a>封装八位寄存器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a8c29bd9c307b7e9170592.png" alt="code"></p><ul><li><h1 id="运算单元ALU：加法器"><a href="#运算单元ALU：加法器" class="headerlink" title="运算单元ALU：加法器"></a>运算单元ALU：加法器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a8c3a0d9c307b7e917c2ec.png" alt="code"></p><ul><li><h1 id="CPU原理图"><a href="#CPU原理图" class="headerlink" title="CPU原理图"></a>CPU原理图</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a8c3a0d9c307b7e917c2d0.png" alt="code"></p><ul><li><h1 id="CPU执行流程"><a href="#CPU执行流程" class="headerlink" title="CPU执行流程"></a>CPU执行流程</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a8c29bd9c307b7e9170573.png" alt="code"></p><ul><li><h1 id="CPU内部结构"><a href="#CPU内部结构" class="headerlink" title="CPU内部结构"></a>CPU内部结构</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a8c29bd9c307b7e9170515.png" alt="code"></p><ul><li><h1 id="完整CPU-内存（手动执行）"><a href="#完整CPU-内存（手动执行）" class="headerlink" title="完整CPU+内存（手动执行）"></a>完整CPU+内存（手动执行）</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a8c29bd9c307b7e9170563.png" alt="code"></p><ul><li><h1 id="完整CPU-内存-控制单元（自动执行）"><a href="#完整CPU-内存-控制单元（自动执行）" class="headerlink" title="完整CPU+内存+控制单元（自动执行）"></a>完整CPU+内存+控制单元（自动执行）</h1></li></ul><p><strong>关键</strong>：指令集</p><p><img src="https://pic.imgdb.cn/item/66a8c29bd9c307b7e917052d.png" alt="code"></p>]]></content>
+        <content type="html"><![CDATA[<div class="tag link"><a class="link-card" title="课程视频" href="https://www.bilibili.com/video/BV1nV411T7U3"><div class="left"><img src="https://pic.imgdb.cn/item/66a8c65ed9c307b7e919c2ee.jpg"/></div><div class="right"><p class="text">课程视频</p><p class="url">https://www.bilibili.com/video/BV1nV411T7U3</p></div></a></div><ul><li><h1 id="封装八位寄存器"><a href="#封装八位寄存器" class="headerlink" title="封装八位寄存器"></a>封装八位寄存器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a8c29bd9c307b7e9170592.png" alt="code"></p><ul><li><h1 id="运算单元ALU：加法器"><a href="#运算单元ALU：加法器" class="headerlink" title="运算单元ALU：加法器"></a>运算单元ALU：加法器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a8c3a0d9c307b7e917c2ec.png" alt="code"></p><ul><li><h1 id="CPU原理图"><a href="#CPU原理图" class="headerlink" title="CPU原理图"></a>CPU原理图</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a8c3a0d9c307b7e917c2d0.png" alt="code"></p><ul><li><h1 id="CPU执行流程"><a href="#CPU执行流程" class="headerlink" title="CPU执行流程"></a>CPU执行流程</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a8c29bd9c307b7e9170573.png" alt="code"></p><ul><li><h1 id="CPU内部结构"><a href="#CPU内部结构" class="headerlink" title="CPU内部结构"></a>CPU内部结构</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a8c29bd9c307b7e9170515.png" alt="code"></p><ul><li><h1 id="完整CPU-内存（手动执行）"><a href="#完整CPU-内存（手动执行）" class="headerlink" title="完整CPU+内存（手动执行）"></a>完整CPU+内存（手动执行）</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a8c29bd9c307b7e9170563.png" alt="code"></p><ul><li><h1 id="完整CPU-内存-控制单元（自动执行）"><a href="#完整CPU-内存-控制单元（自动执行）" class="headerlink" title="完整CPU+内存+控制单元（自动执行）"></a>完整CPU+内存+控制单元（自动执行）</h1></li></ul><p><strong>关键</strong>：指令集</p><p><img src="https://pic.imgdb.cn/item/66a8c29bd9c307b7e917052d.png" alt="code"></p>]]></content>
       
       
       <categories>
@@ -97,7 +126,7 @@
       <link href="/post/cc6741fc.html"/>
       <url>/post/cc6741fc.html</url>
       
-        <content type="html"><![CDATA[<div class="tag link"><a class="link-card" title="学习视频" href="https://www.bilibili.com/video/BV1nV411T7U3"><div class="left"><img src="https://pic.imgdb.cn/item/66a4da35d9c307b7e9aa201d.jpg"/></div><div class="right"><p class="text">学习视频</p><p class="url">https://www.bilibili.com/video/BV1nV411T7U3</p></div></a></div><ul><li><h1 id="锁存器"><a href="#锁存器" class="headerlink" title="锁存器"></a>锁存器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d85dd9c307b7e9a8e079.png" alt="code"></p><ul><li><h1 id="八位寄存器"><a href="#八位寄存器" class="headerlink" title="八位寄存器"></a>八位寄存器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d85dd9c307b7e9a8e05f.png" alt="code"></p><ul><li><h1 id="添加了输出使能的寄存器"><a href="#添加了输出使能的寄存器" class="headerlink" title="添加了输出使能的寄存器"></a>添加了输出使能的寄存器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d857d9c307b7e9a8da8d.png" alt="code"></p><ul><li><h1 id="内存单元"><a href="#内存单元" class="headerlink" title="内存单元"></a>内存单元</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d857d9c307b7e9a8da6e.png" alt="code"></p><ul><li><h1 id="十六位内存"><a href="#十六位内存" class="headerlink" title="十六位内存"></a>十六位内存</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d857d9c307b7e9a8dab9.png" alt="code"></p><p><strong>行列线可以通过查找表合并</strong></p><p><img src="https://pic.imgdb.cn/item/66a4d857d9c307b7e9a8da62.png" alt="code"></p>]]></content>
+        <content type="html"><![CDATA[<div class="tag link"><a class="link-card" title="课程视频" href="https://www.bilibili.com/video/BV1nV411T7U3"><div class="left"><img src="https://pic.imgdb.cn/item/66a4da35d9c307b7e9aa201d.jpg"/></div><div class="right"><p class="text">课程视频</p><p class="url">https://www.bilibili.com/video/BV1nV411T7U3</p></div></a></div><ul><li><h1 id="锁存器"><a href="#锁存器" class="headerlink" title="锁存器"></a>锁存器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d85dd9c307b7e9a8e079.png" alt="code"></p><ul><li><h1 id="八位寄存器"><a href="#八位寄存器" class="headerlink" title="八位寄存器"></a>八位寄存器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d85dd9c307b7e9a8e05f.png" alt="code"></p><ul><li><h1 id="添加了输出使能的寄存器"><a href="#添加了输出使能的寄存器" class="headerlink" title="添加了输出使能的寄存器"></a>添加了输出使能的寄存器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d857d9c307b7e9a8da8d.png" alt="code"></p><ul><li><h1 id="内存单元"><a href="#内存单元" class="headerlink" title="内存单元"></a>内存单元</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d857d9c307b7e9a8da6e.png" alt="code"></p><ul><li><h1 id="十六位内存"><a href="#十六位内存" class="headerlink" title="十六位内存"></a>十六位内存</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a4d857d9c307b7e9a8dab9.png" alt="code"></p><p><strong>行列线可以通过查找表合并</strong></p><p><img src="https://pic.imgdb.cn/item/66a4d857d9c307b7e9a8da62.png" alt="code"></p>]]></content>
       
       
       <categories>
@@ -130,7 +159,7 @@
       <link href="/post/ded2ee12.html"/>
       <url>/post/ded2ee12.html</url>
       
-        <content type="html"><![CDATA[<div class="tag link"><a class="link-card" title="学习视频" href="https://www.bilibili.com/video/BV1nV411T7U3"><div class="left"><img src="https://pic.imgdb.cn/item/66a31a77d9c307b7e91bf76c.jpg"/></div><div class="right"><p class="text">学习视频</p><p class="url">https://www.bilibili.com/video/BV1nV411T7U3</p></div></a></div><ul><li><h1 id="异或门"><a href="#异或门" class="headerlink" title="异或门"></a>异或门</h1></li></ul><p><strong>继电器实现</strong></p><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e9181057.png" alt="code"></p><p><strong>门电路实现</strong></p><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918107f.png" alt="code"></p><ul><li><h1 id="半加器"><a href="#半加器" class="headerlink" title="半加器"></a>半加器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918104f.png" alt=""></p><ul><li><h1 id="全加器"><a href="#全加器" class="headerlink" title="全加器"></a>全加器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918106c.png" alt="code"></p><ul><li><h1 id="八位二进制加法器"><a href="#八位二进制加法器" class="headerlink" title="八位二进制加法器"></a>八位二进制加法器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918102c.png" alt="code"></p>]]></content>
+        <content type="html"><![CDATA[<div class="tag link"><a class="link-card" title="课程视频" href="https://www.bilibili.com/video/BV1nV411T7U3"><div class="left"><img src="https://pic.imgdb.cn/item/66a31a77d9c307b7e91bf76c.jpg"/></div><div class="right"><p class="text">课程视频</p><p class="url">https://www.bilibili.com/video/BV1nV411T7U3</p></div></a></div><ul><li><h1 id="异或门"><a href="#异或门" class="headerlink" title="异或门"></a>异或门</h1></li></ul><p><strong>继电器实现</strong></p><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e9181057.png" alt="code"></p><p><strong>门电路实现</strong></p><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918107f.png" alt="code"></p><ul><li><h1 id="半加器"><a href="#半加器" class="headerlink" title="半加器"></a>半加器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918104f.png" alt=""></p><ul><li><h1 id="全加器"><a href="#全加器" class="headerlink" title="全加器"></a>全加器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918106c.png" alt="code"></p><ul><li><h1 id="八位二进制加法器"><a href="#八位二进制加法器" class="headerlink" title="八位二进制加法器"></a>八位二进制加法器</h1></li></ul><p><img src="https://pic.imgdb.cn/item/66a315f6d9c307b7e918102c.png" alt="code"></p>]]></content>
       
       
       <categories>
