@@ -4,6 +4,37 @@
   
     
     <entry>
+      <title>【butterfly教程】更改文章页的文章相关信息布局</title>
+      <link href="/post/84dc2e1a.html"/>
+      <url>/post/84dc2e1a.html</url>
+      
+        <content type="html"><![CDATA[<div class="tag link"><a class="link-card" title="CSDN链接" href="https://blog.csdn.net/2201_75319686/article/details/140700493?spm=1001.2014.3001.5501"><div class="left"><img src="https://pic.imgdb.cn/item/66af5bd7d9c307b7e99587c2.jpg"/></div><div class="right"><p class="text">CSDN链接</p><p class="url">https://blog.csdn.net/2201_75319686/article/details/140700493?spm=1001.2014.3001.5501</p></div></a></div><p>文件路径：blogRoot\themes\butterfly\source\css\_layout\head.styl</p><p><strong>以下示例为将文章标题及其相关信息修改为居中显示</strong></p><p>该代码块在第100行左右</p><figure class="highlight styl"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="selector-id">#post-info</span></span><br><span class="line">  <span class="attribute">position</span>: absolute</span><br><span class="line">  <span class="attribute">bottom</span>: <span class="number">30px</span>  //文章信息距离文章块的高度.改为<span class="number">100px</span></span><br><span class="line">  <span class="attribute">padding</span>: <span class="number">0</span> <span class="number">8%</span></span><br><span class="line">  <span class="attribute">width</span>: <span class="number">100%</span></span><br><span class="line">+ <span class="attribute">text-align</span>: center</span><br></pre></td></tr></table></figure><p><strong>（标有‘+’的为新添代码）</strong></p><p>修改前：</p><p><img src="https://i-blog.csdnimg.cn/direct/7f3e8367e3554efd92e16b5dfcbe01c8.png" alt="code"></p><p>修改后的效果：</p><p><img src="https://i-blog.csdnimg.cn/direct/ab2bed8241834320b920a2807a04f7d5.png" alt="code"></p><p>其它更改请自行查看该文件。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 教程 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hexo </tag>
+            
+            <tag> butterfly </tag>
+            
+            <tag> 教程 </tag>
+            
+            <tag> 经验分享 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>嵌入式学习笔记（4）</title>
       <link href="/post/e90c1e20.html"/>
       <url>/post/e90c1e20.html</url>
@@ -399,9 +430,9 @@
             
             <tag> 小说 </tag>
             
-            <tag> 微小说 </tag>
-            
             <tag> 儿时旧作 </tag>
+            
+            <tag> 微小说 </tag>
             
             <tag> 王家庄 </tag>
             
@@ -455,9 +486,9 @@
             
             <tag> 小说 </tag>
             
-            <tag> 微小说 </tag>
-            
             <tag> 儿时旧作 </tag>
+            
+            <tag> 微小说 </tag>
             
             <tag> 王家庄 </tag>
             
@@ -486,9 +517,9 @@
             
             <tag> 小说 </tag>
             
-            <tag> 微小说 </tag>
-            
             <tag> 儿时旧作 </tag>
+            
+            <tag> 微小说 </tag>
             
             <tag> 恐怖 </tag>
             
