@@ -1,0 +1,6 @@
+# hexo robots.txt
+User-agent: *
+Allow: /
+
+Sitemap: https://moonruyan.github.io/sitemap.xml
+Sitemap: https://moonruyan.github.io/baidusitemap.xml
