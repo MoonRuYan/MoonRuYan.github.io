@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>问题记录-Win11蓝屏&amp;循环重启</title>
+      <link href="/post/ec4ae76d.html"/>
+      <url>/post/ec4ae76d.html</url>
+      
+        <content type="html"><![CDATA[<div class="tag link"><a class="link-card" title="CSDN链接" href="https://blog.csdn.net/2201_75319686/article/details/148145592?spm=1001.2014.3001.5501"><div class="left"><img src="https://pic1.imgdb.cn/item/682ef08758cb8da5c8060cb8.jpg"/></div><div class="right"><p class="text">CSDN链接</p><p class="url">https://blog.csdn.net/2201_75319686/article/details/148145592?spm=1001.2014.3001.5501</p></div></a></div><p>今天下午实验课时笔记本莫名蓝屏崩溃，很不幸的进入了循环重启。</p><p><img src="https://pic1.imgdb.cn/item/682ef08758cb8da5c8060cb6.jpg" alt="code"></p><p>网上查了一下终止代码，发现可能是驱动相关。</p><p>注意到失败操作Netwtw12.sys，怀疑是网络驱动问题。</p><p>找了个没有WiFi的地方，电脑确实不再蓝屏，可以进桌面操作了。</p><p>打开设备管理器，找到网络适配器。</p><p><img src="https://pic1.imgdb.cn/item/682ef08758cb8da5c8060cb2.png" alt="code"></p><p>卸载设备，重启电脑，发现连接上网络后电脑没有蓝屏。</p><p>觉得应该是把问题解决了。</p><p>不过还不是很放心，又下载安装了个新的网络驱动。</p><p>顺便下了windbg，在C:\Windows\Minidump下找到蓝屏文件，随便看了一眼。</p><p>问题应该不大。</p><p>虽然最后也没明白网络驱动怎么出问题了。</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> 问题记录 </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 经验分享 </tag>
+            
+            <tag> 问题记录 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>我们生活在小镇</title>
       <link href="/post/f6673cf8.html"/>
       <url>/post/f6673cf8.html</url>
